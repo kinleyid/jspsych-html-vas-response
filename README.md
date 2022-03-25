@@ -1,3 +1,7 @@
+# UPDATE
+
+## This plugin is now on [jspsych-contrib](https://github.com/jspsych/jspsych-contrib), meaning it can be loaded from NPM. I'll leave this source code here, but it's probably easiest to use the other copy.
+
 # html-vas-response
 
 ## Overview
